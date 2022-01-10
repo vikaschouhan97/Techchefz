@@ -13,6 +13,7 @@ body{
     margin: 0;
     text-align: center;
     background-color: rgb(58, 104, 56);
+    width: auto;
 }
 
 .heading {
@@ -21,7 +22,7 @@ body{
 }
 
 .heading h1 {
-    font-size: 60pt;
+    font-size: 60px;
 }
 
 .mainHeading .mainImage {
@@ -80,7 +81,7 @@ body{
 }
 
 .bottom1 h1 {
-    font-size: 90px;
+    font-size: 80px;
 }
 
 .bottom2 {
