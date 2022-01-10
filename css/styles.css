@@ -51,6 +51,7 @@ body{
     background-color: white;
     color: black;
     position: relative;
+     width: auto;
 }
 
 .cards {
